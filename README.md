@@ -13,7 +13,5 @@ colcon build 실행.
 
 ros2 run turtlesim turtlesim_node 실행.
 
-![image](https://github.com/kutmslee/ROS2-turtlesim-colcon-build/assets/38107813/06f1e2de-8b0a-4ffd-a534-5e0ec7016dd9)
-
-
+![image](https://github.com/kutmslee/ROS2-turtlesim-colcon-build/assets/38107813/23d24fc9-df20-41fd-b5bd-6f70ea0d5418)
 
